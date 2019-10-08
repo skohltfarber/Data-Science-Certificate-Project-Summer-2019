@@ -11,7 +11,7 @@ We learned.
 
 It was challenging and I was eager to learn how to use my new found skills. This repository is a small glimpse into how our data science certificate course. I would recommend to any well-balanced engineer looking for the next step in his or her career. If you interested into applying for the course, click this [link](https://training.uark.edu/it-readiness/data-science-certificate-program.php) so you can get more information.
 
-# My Project
+## My Project
 
-Since 2014, I have been in the Banking Industry. I have been introduced to many areas that Data Science could help gain valuable insight. I have been noticing that there has been a many mergers and acquisitions. According to [iBanknet Bank Mergers and Acquisitions List of 6/30/2019]( http://www.ibanknet.com/scripts/callreports/fiList.aspx?type=bankmanda), there has been 447 from 1/1/2018 to 9/3/2019. We found a great Datasource for bank descriptions from [FDIC Summary of Deposits (SOD) from DATA.GOV 2017]( https://catalog.data.gov/dataset/fdic-summary-of-deposits-sod-download-file).
+Since 2014, I have been in the Banking Industry. I have been introduced to many areas that Data Science could help gain valuable insight. I have been noticing that there has been a many mergers and acquisitions. According to [iBanknet Bank Mergers and Acquisitions List of 6/30/2019]( http://www.ibanknet.com/scripts/callreports/fiList.aspx?type=bankmanda), there has been 447 from 1/1/2018 to 9/3/2019. We found a great Datasource for bank descriptions from [FDIC Summary of Deposits (SOD) from DATA.GOV 2017]( https://catalog.data.gov/dataset/fdic-summary-of-deposits-sod-download-file). With these two datasources in hand, we are going to use datascience to find valuable insight that banks can use. 
  
